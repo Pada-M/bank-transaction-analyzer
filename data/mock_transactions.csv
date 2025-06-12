@@ -1,0 +1,1001 @@
+customer_id,transaction_date,amount,merchant,category
+1005,2025-05-01,101.62,Sutton Ltd,Groceries
+1004,2025-04-17,55.55,Gardner LLC,Utilities
+1008,2025-06-08,199.72,Welch Group,Travel
+1008,2025-01-09,412.87,Rivera PLC,Utilities
+1008,2025-04-19,200.5,Turner LLC,Travel
+1004,2025-01-19,239.53,Smith LLC,Utilities
+1010,2025-03-23,100.59,"Hall, Diaz and Sandoval",Healthcare
+1003,2025-01-30,191.56,"Miller, Harris and Martin",Restaurants
+1006,2025-05-29,168.89,Martin-Weaver,Groceries
+1007,2025-01-15,195.03,King PLC,Restaurants
+1010,2024-12-26,102.03,Duran-Miller,Healthcare
+1009,2025-05-17,162.18,Wilson Group,Healthcare
+1003,2025-02-05,187.48,Vasquez Ltd,Shopping
+1001,2025-06-04,281.17,Macdonald Inc,Utilities
+1003,2025-03-12,374.8,"Johnson, Koch and Garcia",Travel
+1006,2025-05-27,218.99,Hall-Flores,Groceries
+1002,2025-02-24,116.01,Lozano Inc,Shopping
+1008,2024-12-11,259.64,Oneill-Haynes,Groceries
+1006,2025-03-31,370.86,"Martinez, Nelson and Brown",Restaurants
+1007,2025-04-04,40.76,Howard-Horton,Travel
+1008,2025-01-18,330.7,Durham PLC,Healthcare
+1009,2025-05-16,229.22,"Beard, Brewer and Simmons",Travel
+1003,2025-03-13,297.38,Frazier LLC,Utilities
+1007,2025-03-24,498.33,Kirby-Park,Utilities
+1004,2025-05-16,217.85,"Powers, Kennedy and Richardson",Groceries
+1008,2025-02-06,495.13,Mitchell-Huff,Travel
+1009,2025-05-12,395.99,"Hernandez, Nixon and Rivera",Shopping
+1005,2025-01-15,423.63,Garcia-Miller,Restaurants
+1006,2025-02-02,483.56,Berry PLC,Restaurants
+1002,2025-03-23,453.39,Gibson-Ramsey,Utilities
+1010,2025-02-14,457.42,Burke-Miller,Healthcare
+1004,2025-03-15,474.34,"Graves, Vasquez and Johnson",Groceries
+1007,2025-03-25,311.56,"Snyder, Smith and Figueroa",Travel
+1007,2025-05-23,273.22,Turner PLC,Utilities
+1005,2025-01-09,74.06,Curtis-Pierce,Shopping
+1005,2024-12-17,44.11,"Roberts, Thomas and Hamilton",Travel
+1005,2025-05-20,347.8,King LLC,Utilities
+1003,2025-04-21,134.59,Young Ltd,Travel
+1002,2025-06-02,458.71,Mack-Allen,Restaurants
+1008,2025-02-20,167.1,Butler Inc,Travel
+1005,2025-03-12,308.87,"Carter, Padilla and Solis",Restaurants
+1005,2025-03-12,441.95,"Simpson, Brown and Powell",Groceries
+1009,2025-03-27,225.84,"Palmer, Estes and Gillespie",Healthcare
+1008,2025-01-18,241.42,Russell-Robinson,Shopping
+1010,2024-12-22,152.78,Anderson and Sons,Utilities
+1000,2025-04-16,400.05,"Dickerson, Guerra and Hale",Shopping
+1002,2025-01-26,481.32,Davis-Henderson,Travel
+1001,2025-05-22,254.88,Melton Inc,Groceries
+1000,2025-05-12,37.24,Blackwell-Ray,Shopping
+1001,2025-01-06,257.54,Jones-Brown,Healthcare
+1001,2025-01-24,465.43,Hamilton Group,Healthcare
+1006,2025-03-24,86.64,Carter-Bean,Healthcare
+1006,2025-02-18,396.04,"Rios, Torres and Terry",Travel
+1001,2025-05-05,239.43,Wilson-Wade,Healthcare
+1005,2025-01-01,338.2,Clayton LLC,Restaurants
+1000,2025-01-20,240.73,Douglas Inc,Restaurants
+1007,2024-12-19,471.55,Everett LLC,Shopping
+1009,2025-02-02,457.1,Leblanc-Carter,Restaurants
+1001,2025-01-19,458.66,"Parsons, Hernandez and Kelly",Restaurants
+1010,2025-03-01,280.87,"Sims, Kennedy and Jones",Groceries
+1008,2025-04-08,440.09,"Ramirez, Sanchez and Williams",Shopping
+1007,2025-01-15,22.12,Wolfe-Collins,Groceries
+1010,2024-12-20,93.62,"Frye, Davis and Murphy",Travel
+1003,2025-05-22,157.12,Tapia PLC,Restaurants
+1006,2024-12-29,25.86,Todd and Sons,Groceries
+1001,2025-03-14,366.46,Cruz-Boyer,Shopping
+1004,2025-04-20,103.57,"Watson, Garrison and Chavez",Healthcare
+1001,2025-03-14,281.26,Wood-Thompson,Shopping
+1004,2025-05-05,373.93,Villa-Bradshaw,Shopping
+1002,2025-03-22,248.05,Archer-Arnold,Utilities
+1009,2024-12-18,164.04,Anderson Inc,Travel
+1004,2025-03-26,90.14,Hudson Inc,Restaurants
+1009,2024-12-19,462.97,Johnson-Macdonald,Travel
+1009,2025-05-16,336.73,Ayala-Perry,Restaurants
+1008,2025-01-28,101.56,Howard Ltd,Healthcare
+1010,2024-12-29,315.77,Medina-Stewart,Travel
+1008,2024-12-31,372.0,Anderson LLC,Groceries
+1008,2025-04-12,185.35,Caldwell-Rowe,Travel
+1007,2025-06-07,50.23,"Novak, Rodriguez and Good",Healthcare
+1008,2025-06-06,354.34,"Williams, Pena and Scott",Groceries
+1000,2025-01-06,449.6,"Mata, Mendoza and Campbell",Healthcare
+1010,2025-06-05,217.51,"Vasquez, Gonzalez and Moore",Healthcare
+1000,2025-02-13,215.2,Villarreal and Sons,Healthcare
+1004,2025-05-14,256.97,"Garcia, Buck and Salazar",Healthcare
+1008,2025-03-07,57.96,Maxwell LLC,Utilities
+1006,2025-01-07,54.7,Brady-Steele,Healthcare
+1003,2024-12-28,471.59,Pugh-Dougherty,Restaurants
+1007,2025-02-12,118.81,"Wright, Williams and Adams",Restaurants
+1009,2025-01-24,69.71,Williams-Turner,Groceries
+1007,2025-04-15,137.32,Young and Sons,Healthcare
+1008,2025-03-03,388.62,"Hatfield, Cooper and Martin",Restaurants
+1007,2025-01-01,83.14,Lee Inc,Groceries
+1009,2025-05-03,422.32,Rogers-Webster,Utilities
+1010,2025-01-15,120.39,"Fritz, Campbell and Wallace",Shopping
+1003,2025-04-12,127.64,"Jones, Christian and Hayes",Groceries
+1004,2025-01-21,97.32,Williams and Sons,Utilities
+1008,2025-05-17,326.9,Reese Ltd,Restaurants
+1008,2024-12-23,251.2,"Chandler, Chandler and Cooper",Travel
+1001,2024-12-24,58.17,"Matthews, Perez and Garcia",Shopping
+1006,2024-12-16,406.44,Monroe LLC,Groceries
+1010,2025-01-11,139.74,Robinson Ltd,Utilities
+1001,2025-04-18,163.88,Sloan-Hill,Travel
+1008,2025-04-29,50.04,Harrison-Mendoza,Healthcare
+1005,2024-12-18,328.99,French-Reed,Travel
+1003,2025-03-26,124.02,Bentley Ltd,Travel
+1006,2025-02-21,30.73,David Ltd,Restaurants
+1009,2025-04-26,210.32,Young-Scott,Travel
+1005,2025-04-21,278.4,Ortiz LLC,Healthcare
+1005,2025-02-08,293.19,Cooper PLC,Utilities
+1003,2025-01-17,458.14,"Crosby, Nguyen and Gonzalez",Restaurants
+1005,2025-01-11,279.6,Hodge PLC,Utilities
+1006,2025-02-03,442.69,Barton PLC,Healthcare
+1007,2025-02-03,72.06,Moore Inc,Healthcare
+1009,2025-02-08,345.93,Manning Group,Travel
+1000,2025-01-26,299.78,Gonzalez-Avila,Travel
+1009,2025-01-29,185.39,"West, Little and Harris",Groceries
+1010,2025-05-15,416.6,Phillips LLC,Healthcare
+1009,2024-12-28,125.55,"Palmer, Phillips and Monroe",Shopping
+1009,2025-03-13,495.56,Andrade Inc,Shopping
+1002,2025-05-15,415.81,Hughes Inc,Healthcare
+1008,2025-01-28,251.53,Wilson-Drake,Healthcare
+1008,2025-03-11,415.9,Whitehead-Davis,Healthcare
+1010,2025-02-09,213.83,Jensen and Sons,Shopping
+1007,2025-01-11,308.42,Robinson-Bentley,Utilities
+1007,2025-06-01,402.68,Bernard PLC,Utilities
+1007,2025-03-27,110.13,"Sweeney, Marshall and Ellis",Healthcare
+1006,2025-05-27,95.07,"Davis, Price and Hall",Groceries
+1006,2025-04-30,138.97,Hatfield-Figueroa,Groceries
+1008,2025-01-30,320.83,"Hensley, Burton and Hunter",Groceries
+1001,2025-03-11,56.73,Miller-Woodward,Restaurants
+1004,2025-02-17,433.04,"Blanchard, Gutierrez and Shah",Travel
+1002,2025-05-07,29.24,"Khan, Kelly and Matthews",Restaurants
+1000,2024-12-31,123.68,"Harris, Moore and Mcneil",Healthcare
+1004,2025-04-19,253.83,Soto-Bell,Travel
+1003,2024-12-19,291.04,Shepard and Sons,Healthcare
+1000,2025-03-12,266.3,Alexander Group,Shopping
+1009,2025-01-09,410.07,"Cooper, Wong and Ortiz",Healthcare
+1003,2025-02-08,294.14,Burnett Inc,Restaurants
+1003,2025-04-09,304.38,Garcia PLC,Healthcare
+1003,2025-02-26,68.07,Martinez Group,Restaurants
+1006,2025-01-21,141.55,Duffy-York,Travel
+1006,2025-04-21,49.47,Smith Group,Groceries
+1003,2025-02-03,435.5,Hall PLC,Utilities
+1008,2025-02-08,335.52,Campbell-Taylor,Shopping
+1000,2025-03-19,23.67,Austin-Rhodes,Healthcare
+1007,2025-04-02,332.69,Butler LLC,Healthcare
+1008,2025-05-10,418.32,Novak Group,Restaurants
+1009,2025-01-07,50.09,"Johnson, Burns and Peterson",Shopping
+1007,2025-02-27,204.66,"Curry, Sandoval and Ramirez",Healthcare
+1002,2025-02-11,149.56,Ball-Farmer,Utilities
+1005,2024-12-26,284.57,"Brown, Cox and Miller",Travel
+1005,2025-01-30,146.97,Haynes-Martin,Shopping
+1004,2025-04-10,266.53,Gray Group,Restaurants
+1010,2025-05-07,375.33,Pineda Group,Travel
+1008,2025-05-07,178.78,Hernandez-Coleman,Shopping
+1004,2025-04-09,451.7,Ruiz-Wilson,Utilities
+1006,2025-01-11,322.49,"Mccarty, Thompson and Adams",Travel
+1007,2025-05-03,151.91,Hines-Terry,Healthcare
+1006,2025-05-06,214.61,Brown Ltd,Shopping
+1004,2025-02-01,209.53,Johnson Inc,Healthcare
+1006,2025-04-18,455.0,Jones-Roman,Groceries
+1001,2025-05-09,197.29,Dean-Shaw,Utilities
+1008,2025-01-02,294.32,Allen-Wise,Utilities
+1010,2025-06-02,496.93,White and Sons,Restaurants
+1006,2025-05-09,241.06,Richardson-Carson,Shopping
+1007,2025-02-09,394.37,"Mitchell, Gibson and Frye",Shopping
+1000,2025-04-14,175.91,Knox and Sons,Groceries
+1009,2025-05-05,73.08,"Kelly, Padilla and Thompson",Travel
+1003,2025-03-27,32.51,"Ray, Aguilar and Carpenter",Travel
+1007,2025-05-19,401.49,Hernandez LLC,Groceries
+1000,2025-04-17,411.18,Green Inc,Shopping
+1003,2025-03-27,282.99,Clark-Ortiz,Travel
+1002,2025-05-21,290.26,West Ltd,Utilities
+1009,2025-01-28,450.72,Pierce-Nguyen,Groceries
+1001,2025-05-03,303.59,"Garcia, Young and Peterson",Healthcare
+1005,2025-05-22,28.02,"Lopez, Houston and Rosario",Restaurants
+1003,2024-12-17,169.51,Lewis-Chang,Shopping
+1003,2025-06-05,55.99,"Griffin, Wright and Johnson",Shopping
+1004,2025-03-27,238.32,Holloway PLC,Restaurants
+1010,2025-05-14,396.31,"Ross, Hernandez and Armstrong",Travel
+1004,2025-03-01,352.41,"Rogers, Henry and Golden",Travel
+1008,2025-03-06,403.38,Walters-Newman,Travel
+1002,2025-01-06,368.87,Vaughn Inc,Travel
+1006,2025-04-04,288.38,"Perez, Lester and Murray",Utilities
+1006,2025-02-09,349.5,Gallegos-Parsons,Healthcare
+1002,2025-01-23,355.03,Cross Ltd,Utilities
+1001,2025-05-07,33.5,"Shelton, Baker and Compton",Restaurants
+1005,2025-04-13,443.54,Oneill Group,Shopping
+1006,2025-04-08,217.58,Garcia Group,Travel
+1001,2025-03-22,286.84,Smith Inc,Restaurants
+1003,2025-01-28,37.49,Hart-Thomas,Travel
+1002,2025-06-03,413.12,"Smith, Myers and Garner",Restaurants
+1008,2025-04-19,123.3,Stevenson-Ruiz,Healthcare
+1008,2025-03-13,463.81,Dalton PLC,Travel
+1005,2025-05-18,373.38,Walsh LLC,Restaurants
+1000,2024-12-24,140.11,Parsons PLC,Healthcare
+1008,2025-04-10,260.42,Saunders and Sons,Restaurants
+1004,2024-12-30,138.37,Jordan-Dougherty,Restaurants
+1001,2025-01-08,279.5,"Mcgee, Flores and Dean",Restaurants
+1008,2025-04-21,105.37,Leonard-Woodward,Travel
+1002,2024-12-22,343.65,Shaffer-Avila,Shopping
+1003,2025-03-18,12.94,"Sweeney, Mathis and Russell",Utilities
+1004,2025-01-08,446.75,Evans Group,Restaurants
+1004,2025-01-14,210.34,Cook-Spencer,Groceries
+1008,2025-02-23,194.62,Gonzalez-Butler,Utilities
+1001,2025-05-27,43.5,Fletcher-Howard,Travel
+1003,2025-03-04,66.46,Shepard-Simon,Healthcare
+1006,2025-01-14,292.44,"Daniel, Rogers and Valentine",Shopping
+1002,2025-03-05,383.7,"Williams, Bell and Hunt",Groceries
+1005,2025-04-24,340.9,Harmon-Aguilar,Shopping
+1005,2025-01-23,25.81,Medina-Hicks,Utilities
+1008,2025-02-02,5.91,"Alvarado, Martinez and Allen",Restaurants
+1002,2025-01-03,276.83,"Howard, Perry and Cole",Travel
+1001,2025-06-06,201.13,Stout-Grant,Groceries
+1001,2025-02-14,374.14,"Reeves, Adams and Olson",Groceries
+1008,2025-02-14,32.73,"Mcknight, Perkins and Gonzales",Utilities
+1007,2025-04-23,155.03,Baker-Summers,Healthcare
+1006,2025-05-07,449.65,"Boyd, Morse and Stuart",Utilities
+1004,2025-02-17,293.11,"Reeves, Jackson and Johnson",Groceries
+1005,2025-01-26,191.32,Wolfe Ltd,Shopping
+1001,2025-05-06,240.82,"Benton, Castillo and Parsons",Shopping
+1010,2024-12-24,436.12,Hamilton-Perez,Travel
+1006,2025-01-19,346.89,"Johnson, Compton and Watson",Groceries
+1007,2025-02-13,178.85,"Waters, Kennedy and Anderson",Shopping
+1004,2025-03-17,240.7,Nelson PLC,Restaurants
+1010,2025-04-26,410.11,"Baker, Sellers and Moore",Restaurants
+1004,2025-02-06,401.62,Randolph and Sons,Groceries
+1004,2025-02-21,216.48,"Booker, Brooks and Wood",Shopping
+1008,2025-02-27,284.31,"Thomas, Miller and Mcdonald",Shopping
+1003,2025-05-13,222.99,"Johnson, Hawkins and Fox",Restaurants
+1000,2024-12-13,47.31,"Dixon, Wilkinson and Garner",Restaurants
+1005,2025-01-15,231.44,"Jones, Thompson and Johnson",Groceries
+1008,2025-04-08,251.44,"Taylor, Caldwell and Walker",Travel
+1006,2025-05-03,409.12,Foster-Green,Shopping
+1004,2025-04-09,376.7,"Hicks, Brown and Russo",Restaurants
+1002,2025-01-26,407.04,"Mcpherson, Brown and Mcclure",Travel
+1007,2025-05-18,461.99,Finley-Bryant,Utilities
+1005,2025-02-10,174.44,Reed PLC,Travel
+1007,2025-05-07,81.45,Carter Inc,Healthcare
+1000,2025-03-15,454.52,"Figueroa, Sanchez and Williamson",Groceries
+1002,2025-05-07,12.99,Jones LLC,Shopping
+1006,2025-02-18,101.01,Tran Group,Shopping
+1010,2025-04-26,112.12,Vasquez and Sons,Utilities
+1006,2025-05-16,476.3,Kerr and Sons,Healthcare
+1000,2025-03-03,73.42,Johnson-Jensen,Utilities
+1010,2025-02-08,426.38,Sanders Group,Healthcare
+1009,2025-04-09,182.63,Morgan and Sons,Shopping
+1005,2025-04-27,102.0,Rodgers and Sons,Utilities
+1010,2025-01-07,164.83,"Larsen, Williams and Clark",Shopping
+1007,2025-05-01,449.54,Ward-Kerr,Travel
+1007,2024-12-19,303.17,Jackson-Parker,Utilities
+1008,2025-03-13,37.73,Lewis PLC,Shopping
+1003,2025-05-14,198.16,Christian-Williams,Healthcare
+1005,2025-02-09,27.6,Fowler-Montgomery,Shopping
+1004,2025-02-26,429.84,"Grant, Miller and Johnson",Healthcare
+1007,2025-05-11,362.8,"Foster, Dickson and Smith",Utilities
+1008,2025-03-08,290.26,Mathis and Sons,Shopping
+1010,2025-05-26,235.61,Reed-Sutton,Healthcare
+1007,2025-01-29,175.66,Pierce LLC,Restaurants
+1008,2025-01-10,219.57,Mack PLC,Restaurants
+1005,2024-12-23,140.21,Bell LLC,Healthcare
+1010,2025-06-05,31.29,Rice LLC,Healthcare
+1000,2024-12-19,241.39,"Anderson, Jones and Hayes",Groceries
+1002,2025-01-01,178.45,Murphy-Suarez,Travel
+1007,2024-12-24,378.28,Patel PLC,Shopping
+1006,2025-01-31,327.31,"King, Sparks and Hanson",Utilities
+1008,2025-01-19,469.51,"Marsh, Bridges and Morgan",Utilities
+1004,2025-02-23,283.25,Meza PLC,Shopping
+1010,2025-02-07,180.21,Owens-Scott,Groceries
+1002,2025-04-17,324.55,Thomas Inc,Travel
+1004,2025-02-04,421.72,Rodriguez-Moore,Shopping
+1010,2025-01-12,49.47,"Villa, Krueger and Aguilar",Travel
+1001,2025-03-18,447.97,Gilbert-Rodriguez,Healthcare
+1008,2025-01-18,298.07,Garcia-Martin,Travel
+1007,2025-05-07,258.87,Hayes-Leach,Travel
+1007,2025-04-07,94.28,Velazquez Group,Utilities
+1002,2025-04-02,32.49,"Smith, Mendoza and Brooks",Shopping
+1001,2025-02-06,213.01,Goodwin-Harrington,Groceries
+1008,2025-01-29,252.2,Jackson-Reed,Travel
+1009,2025-03-08,441.42,Smith-Harris,Utilities
+1004,2024-12-16,366.64,Martinez LLC,Healthcare
+1003,2025-01-22,82.9,"Brown, Gardner and Peters",Travel
+1002,2025-01-23,73.85,Sanders Group,Travel
+1007,2024-12-13,458.03,"Kim, Kelley and Fitzgerald",Shopping
+1009,2025-01-26,383.76,Miller-Fuller,Restaurants
+1005,2025-03-23,357.81,Anderson-Barrera,Shopping
+1008,2025-05-09,396.55,Anderson-Sanders,Healthcare
+1003,2025-03-20,246.41,Williams PLC,Travel
+1000,2025-04-28,122.44,Chen LLC,Healthcare
+1001,2025-04-18,51.9,Hunter and Sons,Healthcare
+1000,2024-12-22,302.07,Shelton-Medina,Travel
+1008,2025-04-12,11.41,Newman-Bennett,Restaurants
+1010,2025-01-19,38.42,"Lloyd, Taylor and Mcclain",Groceries
+1008,2025-05-10,119.06,Howard Inc,Restaurants
+1006,2025-01-24,172.09,Rivera-Watson,Groceries
+1003,2025-01-29,485.15,Bender LLC,Travel
+1002,2025-03-22,475.85,Mason Inc,Groceries
+1004,2025-02-26,195.72,"Brown, Gutierrez and Howard",Groceries
+1008,2025-02-21,328.55,"Anderson, Alexander and Fox",Healthcare
+1000,2025-05-06,308.27,"Clark, Freeman and Miller",Shopping
+1005,2025-01-10,224.15,Henry-Chavez,Shopping
+1005,2025-05-12,21.01,"Shaw, Kaiser and Middleton",Travel
+1004,2025-05-09,198.84,Kelly Ltd,Utilities
+1004,2025-02-11,52.45,"Wolfe, Munoz and Lane",Travel
+1004,2025-01-02,166.03,Hernandez-Espinoza,Healthcare
+1004,2025-03-18,182.16,"Ballard, Morales and Martinez",Utilities
+1001,2025-05-10,451.68,Thompson Group,Shopping
+1004,2025-05-19,110.42,"Gray, Elliott and Munoz",Groceries
+1000,2024-12-12,48.35,Lynch Ltd,Groceries
+1002,2025-01-09,266.08,Stewart-Bautista,Healthcare
+1007,2025-06-09,155.78,"Roberts, Hall and Mcdonald",Utilities
+1009,2025-02-10,221.42,Hall-Mcguire,Travel
+1003,2025-04-24,249.29,Costa-Davidson,Utilities
+1005,2025-05-05,301.0,Martin-Gutierrez,Groceries
+1007,2024-12-16,313.64,Steele-Smith,Utilities
+1000,2025-05-01,101.94,Reed Inc,Shopping
+1006,2024-12-29,12.43,Lester Ltd,Healthcare
+1009,2025-01-19,490.62,Richardson PLC,Travel
+1003,2025-01-01,354.73,"Fields, Bernard and Lopez",Groceries
+1008,2025-05-07,154.99,"Collins, Mcdonald and Cole",Healthcare
+1002,2025-05-22,140.91,Alvarez Ltd,Groceries
+1010,2025-02-13,13.56,Mills-Williams,Groceries
+1002,2025-01-14,272.23,Carter Group,Shopping
+1010,2025-03-29,318.0,"Cain, Hughes and Jimenez",Groceries
+1009,2025-04-11,427.32,Mitchell-Medina,Restaurants
+1003,2025-02-18,432.0,"Rivera, Mcguire and Gill",Healthcare
+1010,2025-04-05,474.77,"Hammond, Reynolds and Escobar",Healthcare
+1001,2025-03-17,410.16,Duncan and Sons,Shopping
+1007,2025-01-02,418.77,Murphy PLC,Healthcare
+1006,2025-03-07,361.52,"Smith, White and Houston",Travel
+1003,2024-12-14,174.72,Armstrong LLC,Utilities
+1000,2025-02-02,188.37,"Green, Garrett and Fitzgerald",Healthcare
+1001,2025-05-04,452.92,Martinez-Vaughn,Shopping
+1004,2025-04-16,294.87,"Potter, Hall and Johnson",Utilities
+1006,2024-12-26,40.6,Gordon Ltd,Travel
+1002,2025-01-21,241.0,"Pace, Mercado and Carlson",Healthcare
+1004,2025-03-26,400.29,Galvan Group,Healthcare
+1008,2025-05-16,403.68,Herring and Sons,Restaurants
+1005,2025-05-19,42.64,"Adams, Johnson and Holloway",Travel
+1002,2025-03-17,275.69,Henry and Sons,Healthcare
+1007,2025-03-04,9.63,Velez LLC,Restaurants
+1006,2025-04-14,47.31,Klein-Hull,Healthcare
+1005,2025-06-05,167.93,Stuart-Cline,Shopping
+1006,2025-03-15,473.22,Sanders-Gutierrez,Shopping
+1006,2025-01-21,294.46,Jacobs LLC,Restaurants
+1008,2025-04-07,376.83,"Bryan, Frank and Taylor",Healthcare
+1010,2024-12-20,287.49,Davis-Patton,Travel
+1009,2025-01-27,196.03,"Delacruz, Robertson and Ferguson",Shopping
+1006,2025-04-12,29.38,Mccoy Inc,Restaurants
+1005,2025-01-12,89.45,Cortez Ltd,Restaurants
+1000,2025-04-06,185.29,"Cohen, Fox and Scott",Shopping
+1009,2025-05-27,447.86,Johnson-Murphy,Groceries
+1009,2025-02-22,303.52,Johnson PLC,Travel
+1003,2025-05-24,268.07,Calhoun Inc,Healthcare
+1009,2025-03-21,9.98,Henderson Ltd,Travel
+1001,2025-03-06,224.91,Anderson Inc,Groceries
+1006,2024-12-19,328.65,Thompson Inc,Groceries
+1002,2025-05-30,271.8,Cox-Parker,Healthcare
+1005,2025-01-16,159.24,Charles PLC,Utilities
+1004,2025-04-11,381.03,Sandoval Ltd,Groceries
+1004,2025-05-08,379.52,Stewart and Sons,Groceries
+1003,2025-02-25,265.12,"Savage, Moore and Bowen",Healthcare
+1003,2025-02-13,122.2,Ritter-Curry,Groceries
+1003,2025-04-08,139.17,Morris-Mendez,Groceries
+1008,2025-02-09,222.7,Torres and Sons,Groceries
+1004,2025-03-28,384.72,Barnes-Benson,Groceries
+1003,2025-03-21,121.95,Roberts-Castillo,Travel
+1000,2025-03-07,331.24,Boyd-Wiggins,Restaurants
+1003,2025-02-21,230.92,Gardner-Blake,Healthcare
+1007,2025-01-26,194.6,"Simpson, Myers and Cook",Utilities
+1008,2025-01-12,401.28,Oliver-Carroll,Restaurants
+1009,2025-05-26,371.6,Logan Inc,Shopping
+1006,2025-05-24,296.62,"Cortez, Bailey and Martinez",Travel
+1000,2025-04-19,186.44,Smith-Davis,Shopping
+1001,2025-02-23,52.83,Glover LLC,Shopping
+1000,2025-05-29,329.32,Rose Group,Restaurants
+1004,2025-04-24,47.58,"Bradford, Sanford and Rodriguez",Healthcare
+1004,2025-02-01,183.49,Johnson PLC,Groceries
+1009,2025-01-22,136.41,Maxwell PLC,Restaurants
+1007,2025-01-30,62.31,Ho Ltd,Groceries
+1006,2025-04-19,96.65,"Smith, Weber and Davis",Restaurants
+1005,2025-05-13,123.64,"Williams, Mcconnell and Henderson",Groceries
+1004,2024-12-18,26.42,Snyder-Morrison,Groceries
+1009,2025-05-27,353.72,Gentry-Butler,Utilities
+1000,2025-02-01,406.16,Thornton-Porter,Restaurants
+1003,2024-12-17,394.67,Harris-Johnson,Travel
+1001,2025-01-11,187.18,Rodriguez-Fernandez,Shopping
+1004,2025-05-20,92.93,Martinez-Butler,Utilities
+1005,2025-02-08,387.6,"Burke, Morton and Green",Travel
+1005,2025-02-22,342.59,Walker Ltd,Travel
+1010,2025-05-29,489.35,Clark-Lee,Healthcare
+1010,2025-03-10,120.23,Mullins-Mcgee,Shopping
+1004,2025-03-03,164.55,Andrews PLC,Groceries
+1010,2025-02-15,361.11,Stewart-Guzman,Healthcare
+1009,2025-03-10,40.81,Johnston-Nguyen,Utilities
+1007,2025-02-14,249.3,Hull-Rogers,Utilities
+1007,2025-02-26,198.24,Rios PLC,Healthcare
+1009,2025-04-06,236.33,"Bell, Russo and Lopez",Utilities
+1005,2025-05-01,70.24,Santiago Group,Groceries
+1010,2025-03-14,7.9,"Rodgers, Valentine and Rangel",Healthcare
+1004,2025-04-03,228.1,Haas-Ibarra,Restaurants
+1009,2025-03-19,178.79,"Vazquez, Holden and Walker",Restaurants
+1007,2025-01-16,119.12,"Meza, Smith and Bennett",Healthcare
+1008,2025-03-04,294.2,"Rivera, Coleman and Krueger",Groceries
+1005,2025-04-07,198.02,Parker and Sons,Healthcare
+1009,2025-03-08,73.39,Higgins-Collins,Shopping
+1004,2025-01-18,121.33,"Torres, Liu and Hale",Travel
+1003,2025-03-21,10.57,Rodgers-Butler,Restaurants
+1010,2025-03-28,29.72,Cruz Group,Travel
+1005,2025-03-04,23.33,Ford-Santos,Restaurants
+1003,2025-01-29,84.56,"Carr, Wilkerson and York",Healthcare
+1007,2025-01-04,493.45,Novak-Owens,Restaurants
+1006,2025-01-04,197.42,"Washington, Walker and Allen",Healthcare
+1001,2025-04-30,364.39,"Pratt, Moran and Abbott",Healthcare
+1000,2025-01-11,273.04,Smith Inc,Groceries
+1006,2025-05-23,197.16,"Kaufman, Dickson and Jones",Shopping
+1001,2025-01-06,290.16,Mills PLC,Travel
+1004,2024-12-19,405.55,Allen-Wilson,Travel
+1007,2025-01-08,8.59,Griffin and Sons,Utilities
+1007,2024-12-12,7.22,Adams-Reyes,Healthcare
+1007,2025-03-02,494.48,Hale-Ponce,Groceries
+1006,2025-05-03,301.82,"Klein, Garrison and Brown",Healthcare
+1007,2025-03-08,317.6,Rodriguez PLC,Shopping
+1001,2025-03-06,441.21,Johnson Inc,Travel
+1002,2025-06-03,85.04,Stevens and Sons,Restaurants
+1004,2025-02-02,79.09,Ortiz-Smith,Travel
+1008,2024-12-10,439.55,Yang Inc,Healthcare
+1006,2025-02-14,469.56,"Rios, Lee and Bond",Healthcare
+1006,2025-01-30,123.87,Larson-Brooks,Groceries
+1007,2025-05-01,257.11,"Brown, Aguilar and Anderson",Utilities
+1001,2025-01-24,485.96,Young-Lawson,Shopping
+1006,2024-12-21,374.04,"Garcia, Garrett and Love",Utilities
+1007,2024-12-22,411.58,Merritt-Snyder,Healthcare
+1000,2024-12-24,214.87,Anderson Ltd,Healthcare
+1000,2025-05-12,350.9,Osborne-Brock,Utilities
+1002,2025-02-22,54.58,Webster LLC,Restaurants
+1006,2025-01-31,400.53,"Patterson, Francis and Guerrero",Utilities
+1003,2024-12-28,187.65,"Schmitt, Richardson and Munoz",Groceries
+1009,2025-01-12,39.54,Brown and Sons,Utilities
+1004,2025-01-08,388.32,Matthews and Sons,Shopping
+1010,2025-06-07,99.58,Zimmerman-Brown,Groceries
+1004,2025-03-01,62.22,Harrison-Ramirez,Travel
+1009,2025-04-23,390.17,Fuentes-Chan,Shopping
+1010,2024-12-27,308.63,Gutierrez Ltd,Shopping
+1002,2025-03-27,462.8,Mckee Group,Shopping
+1006,2025-03-16,496.96,Anderson-Long,Groceries
+1009,2025-04-26,124.11,Brooks-Smith,Restaurants
+1007,2025-02-23,43.42,Aguilar-Alexander,Groceries
+1004,2025-02-25,33.1,"Chandler, Miller and Reynolds",Restaurants
+1009,2025-04-03,72.39,Chambers-Martinez,Utilities
+1010,2024-12-17,138.85,Jones Ltd,Restaurants
+1001,2025-01-27,273.41,Sutton and Sons,Utilities
+1005,2025-05-30,153.4,"Gonzales, Pearson and Bennett",Utilities
+1002,2025-01-14,257.35,Shea Inc,Shopping
+1004,2025-03-16,440.5,Finley-Lambert,Shopping
+1007,2025-05-29,187.68,Murray Group,Healthcare
+1006,2025-04-26,357.53,Hamilton-Lopez,Utilities
+1001,2025-04-19,258.11,"Ellison, Sullivan and Garcia",Utilities
+1007,2025-02-09,244.54,Erickson Inc,Groceries
+1005,2025-01-15,123.42,Mendoza-Strong,Restaurants
+1003,2025-03-17,328.84,Duarte Group,Groceries
+1006,2025-06-07,65.78,Mcbride and Sons,Healthcare
+1004,2025-02-20,169.14,Wagner LLC,Utilities
+1005,2025-03-22,454.96,Brown Ltd,Travel
+1009,2025-05-11,28.12,Stokes-Harvey,Groceries
+1004,2025-06-07,350.05,Taylor LLC,Utilities
+1003,2025-03-08,222.82,"Brown, Yates and Snyder",Travel
+1002,2025-04-29,162.29,Bolton Group,Groceries
+1003,2025-04-04,235.4,"Davis, Medina and Brown",Shopping
+1004,2025-01-10,426.43,Carr and Sons,Healthcare
+1004,2025-04-08,40.43,Rogers LLC,Restaurants
+1005,2025-02-16,204.26,"Cross, Morris and Baker",Travel
+1009,2024-12-20,49.83,Mcdonald Group,Utilities
+1007,2025-04-11,132.3,"Peterson, Mooney and Simmons",Utilities
+1005,2025-05-01,495.29,"Christian, Warren and Martin",Shopping
+1005,2025-05-25,171.5,"Stark, Andrews and Webb",Restaurants
+1001,2025-02-02,375.09,Mahoney-Miller,Healthcare
+1001,2025-01-28,311.05,"King, Graham and Atkins",Travel
+1007,2025-06-03,272.63,Hamilton-Dorsey,Travel
+1001,2025-02-22,322.23,Kerr-Hill,Restaurants
+1004,2025-02-15,81.13,Owen LLC,Restaurants
+1005,2025-02-16,334.41,Wong-Hoffman,Restaurants
+1000,2025-02-12,479.02,Scott and Sons,Utilities
+1001,2025-02-15,203.5,Weaver-Shepherd,Groceries
+1009,2025-02-27,140.19,Perry-Hayes,Groceries
+1009,2025-02-03,246.33,"Williams, Henderson and Valentine",Shopping
+1007,2025-03-25,486.96,Garcia-Jordan,Restaurants
+1007,2025-01-29,297.67,Howe Inc,Healthcare
+1006,2024-12-25,202.3,"Conley, Jackson and Mcdonald",Travel
+1007,2025-04-29,201.42,Warner LLC,Shopping
+1007,2025-05-09,25.51,Gardner and Sons,Groceries
+1009,2025-03-06,377.02,Jacobs Inc,Restaurants
+1006,2025-03-19,126.9,"Lee, Hudson and Ramirez",Utilities
+1007,2025-04-16,405.31,"Scott, Turner and Kerr",Restaurants
+1010,2025-02-13,383.89,Vargas Inc,Groceries
+1008,2024-12-10,150.77,"Delacruz, Luna and Thompson",Restaurants
+1005,2025-04-21,455.42,Jenkins Ltd,Utilities
+1000,2025-05-27,132.41,Johnson-Ruiz,Healthcare
+1005,2025-01-23,452.63,Allen PLC,Healthcare
+1008,2025-05-25,150.28,Ramirez-Green,Groceries
+1009,2025-01-30,233.82,Williams-Blair,Shopping
+1008,2025-06-07,413.38,"Robertson, Gordon and Barajas",Groceries
+1000,2025-02-02,400.17,Williams-Newman,Healthcare
+1003,2025-03-01,291.83,Morton Group,Shopping
+1001,2024-12-25,231.87,Kennedy PLC,Groceries
+1008,2025-02-15,288.6,"Bailey, Jackson and Brewer",Travel
+1001,2024-12-26,119.51,Williams-Brown,Travel
+1006,2024-12-25,285.37,"Estes, Rodriguez and Morales",Restaurants
+1004,2024-12-27,244.6,Benson Group,Shopping
+1002,2025-03-05,426.96,Lynch and Sons,Travel
+1003,2025-02-26,425.51,Harris LLC,Utilities
+1008,2025-06-05,285.2,Oliver LLC,Utilities
+1010,2025-05-24,418.05,"Mendoza, Weiss and Lewis",Healthcare
+1005,2024-12-14,387.51,Braun and Sons,Groceries
+1003,2025-05-12,14.03,"Vincent, Le and Johnson",Shopping
+1000,2025-01-27,330.28,"Stokes, Edwards and Guzman",Travel
+1006,2025-04-22,486.46,"Holmes, Moore and Watson",Travel
+1005,2025-02-13,165.44,Mosley Inc,Shopping
+1007,2025-02-13,153.42,Molina and Sons,Shopping
+1009,2025-01-24,178.36,Nelson-Ruiz,Healthcare
+1008,2025-01-13,377.76,Mahoney Inc,Healthcare
+1002,2025-03-20,345.84,Hernandez PLC,Utilities
+1008,2025-05-08,473.93,Williams-Brown,Utilities
+1000,2025-01-01,78.87,"Krueger, Williamson and Colon",Groceries
+1001,2025-04-21,177.53,Lewis-Williams,Travel
+1001,2025-06-01,90.89,Griffith-Crawford,Utilities
+1001,2025-04-08,422.89,Richardson-Harris,Healthcare
+1008,2025-01-31,320.76,"Cummings, Joyce and Ford",Restaurants
+1006,2024-12-12,89.39,Williams-Davis,Restaurants
+1000,2025-05-29,6.38,Hopkins PLC,Travel
+1008,2025-03-10,59.26,Winters-White,Utilities
+1009,2025-05-28,212.24,Bean-Elliott,Utilities
+1006,2025-01-09,379.5,Adams-Mcbride,Utilities
+1003,2025-02-06,412.83,"Hanson, Howard and Brooks",Restaurants
+1007,2025-05-03,100.03,Green Ltd,Utilities
+1000,2025-01-22,180.36,"Medina, Reynolds and Rodriguez",Healthcare
+1004,2025-01-21,247.02,Pena-Campos,Healthcare
+1000,2025-05-08,384.01,Smith-Barrett,Groceries
+1002,2025-01-02,118.2,"Boyle, Evans and Davis",Travel
+1004,2024-12-23,498.63,Mora-Aguilar,Shopping
+1002,2025-02-13,316.03,Lambert PLC,Healthcare
+1004,2025-04-13,132.77,"Smith, Guerra and Golden",Restaurants
+1000,2025-04-09,310.4,"Davis, Baker and Miller",Shopping
+1008,2025-03-02,450.46,Higgins-Montgomery,Shopping
+1003,2025-04-26,347.1,Wong Inc,Shopping
+1007,2024-12-24,426.31,Morgan LLC,Restaurants
+1005,2025-02-17,415.23,Bowen-Ochoa,Healthcare
+1010,2025-05-29,388.63,"Clarke, Trujillo and Davis",Restaurants
+1004,2025-03-25,196.95,Tyler-Mason,Healthcare
+1003,2024-12-16,31.13,"Koch, Rush and Hampton",Shopping
+1009,2025-01-21,357.87,"Dennis, Bryant and Gray",Travel
+1003,2025-01-12,55.8,Farmer-Schneider,Travel
+1001,2025-01-21,304.41,"Lambert, Moses and Daugherty",Travel
+1003,2024-12-23,315.22,Hansen-Thompson,Restaurants
+1001,2025-05-04,259.94,"Young, Hutchinson and Rocha",Utilities
+1007,2025-05-01,147.04,"Mendoza, Townsend and Lee",Groceries
+1007,2025-05-17,458.28,"Williams, Parks and Hamilton",Healthcare
+1002,2024-12-18,429.85,"Gonzalez, Davis and Roberson",Groceries
+1010,2025-03-02,83.25,Stein Group,Travel
+1010,2025-05-14,498.16,"George, Ross and Lin",Utilities
+1001,2025-01-18,319.27,Richards-Ramirez,Utilities
+1000,2025-01-08,129.66,Scott-Lewis,Shopping
+1006,2024-12-17,210.36,"Palmer, Fields and Lowery",Restaurants
+1002,2025-05-28,201.53,Kelly-Decker,Travel
+1009,2025-05-08,30.82,"Rodriguez, Davenport and Ford",Shopping
+1000,2025-01-24,89.2,Merritt Group,Restaurants
+1000,2025-04-27,23.37,Tapia Inc,Restaurants
+1007,2025-01-24,290.85,Bright PLC,Restaurants
+1004,2025-01-27,298.98,"Jones, Smith and Kramer",Restaurants
+1010,2025-04-02,241.6,Beck-Costa,Groceries
+1003,2025-05-06,144.97,"Johnson, Jarvis and Hammond",Restaurants
+1000,2025-02-03,431.53,Collins-Robles,Travel
+1004,2025-06-08,418.58,"Anderson, Monroe and Duran",Healthcare
+1006,2025-01-09,285.05,Williams PLC,Groceries
+1001,2025-03-22,479.54,"Alvarez, Ward and Moore",Groceries
+1006,2025-01-31,325.63,Cook and Sons,Healthcare
+1010,2025-05-07,247.94,Young Ltd,Shopping
+1003,2025-04-28,61.82,"Delgado, Humphrey and Brown",Utilities
+1004,2025-05-10,471.61,Buck-Hicks,Restaurants
+1001,2025-03-17,389.99,Tanner-Cole,Healthcare
+1003,2025-03-04,414.0,Flowers and Sons,Restaurants
+1003,2024-12-23,38.65,"Collins, Nelson and Williams",Utilities
+1004,2025-06-05,294.01,Gordon Group,Restaurants
+1004,2025-02-18,72.59,"Patel, Lowe and Decker",Restaurants
+1001,2025-02-27,388.81,Trujillo-Foster,Groceries
+1000,2025-01-19,169.66,"Willis, Hodge and Hernandez",Travel
+1000,2025-02-07,289.43,Smith Group,Restaurants
+1006,2024-12-28,254.81,Gonzalez-Turner,Travel
+1008,2025-05-15,358.75,Aguilar-Tucker,Restaurants
+1010,2025-06-08,169.65,Delgado-Duran,Healthcare
+1001,2024-12-17,30.39,Martinez Group,Healthcare
+1009,2025-04-16,76.89,Bennett and Sons,Groceries
+1008,2025-01-29,463.45,Austin-Miller,Travel
+1007,2025-03-11,252.22,Rose-Sanchez,Shopping
+1001,2025-01-07,165.79,"Wheeler, Johnson and Morris",Healthcare
+1006,2025-02-17,409.89,Lopez-Woods,Healthcare
+1006,2024-12-23,26.05,Adkins-Waters,Restaurants
+1005,2025-01-23,220.58,Hall LLC,Travel
+1005,2025-04-27,289.02,"Lynch, Oconnor and Crawford",Shopping
+1006,2025-02-02,276.41,Trujillo-Franklin,Healthcare
+1008,2025-05-05,220.04,Gonzalez-Evans,Healthcare
+1009,2025-04-27,453.3,Gonzalez Ltd,Utilities
+1008,2025-02-16,184.41,"Cooper, Ortega and Arnold",Shopping
+1009,2025-03-17,317.09,West Group,Groceries
+1007,2024-12-13,407.45,Wagner and Sons,Shopping
+1006,2024-12-21,439.48,Anderson LLC,Utilities
+1003,2025-03-10,411.9,"Brown, Brown and Wise",Healthcare
+1001,2025-04-28,44.09,"Chavez, Lopez and Rowe",Utilities
+1000,2025-03-09,17.65,Pitts LLC,Healthcare
+1009,2025-03-28,88.73,Pierce-Mccarthy,Groceries
+1004,2025-03-01,473.15,"Juarez, Cohen and Olson",Shopping
+1002,2025-05-31,206.59,Reyes-Martinez,Utilities
+1004,2025-01-16,219.17,Edwards Group,Shopping
+1003,2025-01-15,348.75,"Simon, Ward and Ramos",Travel
+1010,2025-05-31,222.61,"Fowler, Carney and Elliott",Shopping
+1002,2025-02-21,36.96,Davis-Harrison,Healthcare
+1001,2024-12-21,103.34,Dominguez-Barajas,Utilities
+1004,2025-03-24,19.97,Pennington-Barnes,Restaurants
+1002,2025-05-11,122.97,"Raymond, Fox and Guerra",Utilities
+1008,2025-02-20,109.02,"Padilla, Wolf and Mueller",Utilities
+1005,2025-04-14,479.29,Walters-Adams,Restaurants
+1001,2025-05-29,227.4,"Brooks, Scott and Young",Travel
+1005,2025-01-16,482.1,Brown-Dunn,Healthcare
+1010,2025-04-25,280.39,Luna-Flores,Groceries
+1008,2025-05-02,137.04,"Yu, Richmond and Henderson",Restaurants
+1001,2024-12-25,116.6,Wilson Inc,Healthcare
+1009,2024-12-21,407.03,Martin-Clarke,Shopping
+1010,2025-03-08,444.61,Ibarra-Price,Shopping
+1001,2025-01-23,203.22,Fernandez PLC,Shopping
+1009,2025-02-03,79.47,"Johnston, Thomas and Taylor",Shopping
+1005,2025-01-11,295.87,Wang PLC,Shopping
+1004,2025-02-27,398.75,"Ray, Nelson and Foster",Restaurants
+1003,2024-12-13,278.22,"Moreno, Jacobson and Howe",Groceries
+1008,2025-03-17,150.43,"Parker, Rose and Diaz",Healthcare
+1010,2025-04-15,467.88,"Horton, Jones and Rubio",Groceries
+1001,2025-03-14,327.82,"Hughes, Gomez and Wright",Utilities
+1004,2025-06-05,263.08,Richards-Gamble,Groceries
+1008,2025-02-15,468.82,"Espinoza, Gibson and Williams",Shopping
+1001,2025-04-17,49.84,"Price, Williams and Terry",Restaurants
+1006,2025-04-05,411.88,"Mooney, King and Bennett",Shopping
+1007,2025-06-05,55.59,Mcguire-Rogers,Groceries
+1006,2024-12-28,268.04,Murray Ltd,Utilities
+1003,2025-02-27,227.16,"Lamb, Francis and Love",Utilities
+1002,2025-04-22,102.9,Moran-English,Groceries
+1010,2025-02-26,199.92,Williams-Pittman,Restaurants
+1000,2025-01-18,111.38,Jackson-Jones,Utilities
+1005,2025-05-05,354.47,"Ray, Harrison and Campbell",Groceries
+1002,2025-05-27,367.92,Marquez-Jones,Restaurants
+1003,2025-04-29,194.68,Flowers Group,Utilities
+1001,2025-04-09,429.71,Robbins Inc,Travel
+1006,2025-05-04,413.3,King and Sons,Travel
+1010,2025-05-14,173.92,Lane-Williams,Utilities
+1003,2025-02-01,312.41,"Fisher, Porter and Watson",Groceries
+1002,2025-02-04,454.16,Williams-Haynes,Healthcare
+1003,2025-02-10,145.52,Evans Inc,Groceries
+1004,2025-02-04,196.21,Campbell-Johnson,Groceries
+1002,2025-05-06,86.62,Anderson-Ward,Restaurants
+1005,2025-03-23,205.85,"Sampson, Armstrong and Chung",Shopping
+1001,2024-12-21,374.68,May-Herrera,Groceries
+1008,2025-06-02,225.72,"Brock, Cain and Calhoun",Groceries
+1002,2024-12-16,77.84,Flores Group,Healthcare
+1000,2024-12-27,268.51,"Rojas, Roberts and Strickland",Healthcare
+1003,2025-03-23,205.81,Scott PLC,Healthcare
+1010,2025-05-05,212.87,"Harper, Navarro and Garcia",Healthcare
+1008,2025-03-16,296.81,"Prince, Zimmerman and Kelly",Shopping
+1007,2025-03-13,455.67,Hayes Ltd,Restaurants
+1006,2025-02-28,147.07,Calderon-Bradford,Utilities
+1005,2025-05-01,139.11,Owens-Ruiz,Groceries
+1001,2025-05-22,425.29,"Hudson, Vasquez and Davis",Healthcare
+1002,2025-03-27,178.61,"Hutchinson, Fritz and Avila",Restaurants
+1010,2025-05-27,434.97,Brown-Johnson,Healthcare
+1005,2025-05-06,249.17,Cantrell LLC,Utilities
+1003,2025-01-07,246.74,Cox-Anderson,Healthcare
+1001,2025-05-15,193.0,"Jackson, Rodriguez and White",Healthcare
+1004,2025-05-23,99.55,"Lane, Young and Harris",Shopping
+1005,2025-02-14,48.99,Cole-Castillo,Healthcare
+1002,2025-05-04,467.66,Alvarez PLC,Utilities
+1005,2025-05-15,251.31,"Mcguire, Hoffman and Nelson",Shopping
+1009,2025-05-17,395.24,Mooney Ltd,Healthcare
+1006,2025-04-08,289.63,Briggs and Sons,Healthcare
+1010,2025-01-11,412.25,Arnold PLC,Travel
+1004,2025-01-30,404.82,Brooks Ltd,Healthcare
+1000,2024-12-23,284.15,"Bush, Allen and Pittman",Utilities
+1003,2025-01-19,499.36,Johnson Group,Travel
+1000,2025-01-20,168.07,Davis Inc,Travel
+1003,2025-03-29,462.71,Kirby-Briggs,Utilities
+1003,2025-01-18,499.5,"Trevino, Preston and Lowe",Healthcare
+1000,2025-02-07,149.07,Thornton Group,Utilities
+1003,2025-05-21,482.05,Pennington Group,Shopping
+1010,2025-02-25,478.72,"Smith, Ferrell and Perez",Utilities
+1008,2025-03-30,290.1,"Jackson, Stewart and Romero",Groceries
+1010,2025-05-12,286.41,"Garcia, Nguyen and Hubbard",Shopping
+1003,2025-01-13,162.22,Rowland-Holland,Healthcare
+1001,2025-01-15,296.67,"Romero, Cabrera and Huang",Travel
+1008,2024-12-10,496.51,Paul-Adams,Utilities
+1004,2025-02-15,18.32,Bell-Davidson,Groceries
+1001,2025-05-24,93.05,Collins LLC,Healthcare
+1004,2025-02-22,408.95,Lopez and Sons,Healthcare
+1009,2024-12-14,380.46,"Marquez, Gonzalez and Wells",Groceries
+1008,2025-06-07,226.92,Harper-Baldwin,Shopping
+1010,2025-03-29,411.71,Pace Group,Healthcare
+1003,2025-04-21,9.14,"Mcdonald, Carter and Atkins",Restaurants
+1003,2025-05-11,54.19,Howell Ltd,Groceries
+1002,2025-03-20,379.82,"Johnson, Bolton and Burgess",Utilities
+1000,2025-01-13,222.43,"Patterson, Gregory and Gonzalez",Groceries
+1007,2024-12-28,356.83,Vaughan-Mcgee,Healthcare
+1003,2025-03-22,411.03,Phillips-Mckinney,Utilities
+1003,2025-04-25,422.4,"Hill, Black and Mcdaniel",Utilities
+1001,2025-04-16,12.64,"Carey, Hall and Ramirez",Groceries
+1004,2025-03-20,17.51,Hernandez-Perry,Utilities
+1000,2025-01-14,134.65,Dixon-Shaw,Healthcare
+1003,2025-05-20,62.99,"Norris, Garner and Allen",Restaurants
+1004,2025-03-03,497.61,"Doyle, Roy and Henry",Groceries
+1006,2024-12-12,15.16,"Mcknight, Smith and Riley",Shopping
+1001,2025-03-11,320.14,"Baldwin, Arroyo and Ross",Groceries
+1004,2025-02-25,202.28,Fox Inc,Groceries
+1000,2025-04-12,266.84,Cunningham LLC,Shopping
+1005,2025-03-01,314.88,Williams and Sons,Travel
+1002,2025-05-09,341.82,"Lopez, Flowers and Blackwell",Shopping
+1000,2024-12-11,133.81,Reyes-Branch,Healthcare
+1009,2025-01-31,453.2,Jones-Smith,Shopping
+1004,2025-03-21,418.09,"Mitchell, Chan and Kim",Restaurants
+1009,2024-12-10,301.29,Hebert-Coleman,Restaurants
+1002,2024-12-14,186.12,Davis-Hooper,Shopping
+1010,2025-03-16,366.77,Perkins PLC,Utilities
+1001,2025-02-19,293.61,"Williams, Smith and Holmes",Healthcare
+1007,2025-03-08,385.21,Patterson Group,Travel
+1008,2025-05-19,112.21,Ponce-Baker,Shopping
+1010,2025-02-22,488.41,Bradford-Rodriguez,Healthcare
+1004,2024-12-13,314.99,"Brown, Molina and Young",Travel
+1006,2025-01-21,65.84,Brown-Zimmerman,Healthcare
+1003,2025-04-29,132.75,"Garcia, Williams and Gordon",Groceries
+1001,2025-02-01,434.13,Burgess-Clark,Travel
+1005,2025-01-15,398.29,"Mitchell, Jacobson and Clark",Utilities
+1008,2025-03-14,496.21,Cox PLC,Travel
+1008,2025-02-20,442.66,"George, Warner and Ramos",Healthcare
+1000,2025-05-08,460.03,"Phillips, Watson and Rice",Healthcare
+1002,2024-12-20,409.9,"Smith, Owens and Hartman",Shopping
+1000,2025-02-04,83.06,"Wilson, Hall and Thomas",Restaurants
+1004,2025-05-04,316.58,"Walls, Lee and Flynn",Healthcare
+1001,2025-03-18,34.58,Warren-Kelly,Healthcare
+1003,2025-01-07,294.34,"Martin, Gomez and Kirk",Utilities
+1003,2025-02-05,317.34,Smith and Sons,Groceries
+1006,2025-06-02,29.7,"Smith, Jones and Romero",Travel
+1001,2025-01-24,260.28,"Smith, Griffin and Middleton",Utilities
+1004,2025-02-01,56.03,"Farley, Mills and English",Healthcare
+1007,2025-01-26,243.68,Jones LLC,Shopping
+1006,2025-06-03,489.3,"Johnson, Flores and Murphy",Shopping
+1008,2025-04-11,433.22,Dillon-Phillips,Groceries
+1002,2025-01-24,37.92,"Austin, Mcclure and Johnson",Travel
+1001,2025-02-12,395.02,Williams Inc,Travel
+1004,2025-05-05,433.63,Wilkinson-Davidson,Utilities
+1008,2025-04-28,87.28,Marsh and Sons,Groceries
+1009,2024-12-31,134.03,Allen Ltd,Groceries
+1001,2025-02-04,107.94,Campbell-Anderson,Travel
+1007,2025-03-12,336.89,"Gonzalez, Vaughn and Perez",Groceries
+1008,2025-01-12,362.0,Matthews-Smith,Travel
+1009,2024-12-17,135.0,Delgado-Watson,Shopping
+1001,2025-02-13,204.62,Kane-Parks,Utilities
+1000,2025-04-28,292.95,"Campbell, Mcmahon and White",Shopping
+1000,2024-12-16,350.55,"Escobar, Bryan and Daniel",Healthcare
+1008,2025-06-07,332.63,Thomas-Dorsey,Groceries
+1002,2025-06-03,421.45,"Coleman, Chapman and Ramirez",Utilities
+1009,2025-05-06,62.41,"Price, Gomez and Mcclain",Utilities
+1010,2025-02-28,369.1,"Herring, Gilbert and Martin",Healthcare
+1004,2024-12-21,388.67,Myers and Sons,Groceries
+1002,2025-05-28,460.86,Goodman-Schultz,Restaurants
+1000,2025-03-14,96.22,Morgan LLC,Utilities
+1000,2024-12-15,122.8,Young Group,Healthcare
+1010,2025-01-23,481.07,"Mayo, Klein and Brooks",Healthcare
+1009,2025-06-06,98.59,"Solomon, Hayden and Singh",Utilities
+1005,2025-01-03,271.04,Jimenez-Branch,Healthcare
+1009,2025-05-13,247.01,"Harris, Duke and Ramirez",Restaurants
+1007,2025-03-11,113.76,Stewart LLC,Groceries
+1007,2025-01-04,465.68,"Carter, Blanchard and Coleman",Travel
+1006,2025-04-22,97.9,Roberson-Bell,Restaurants
+1005,2025-05-27,38.37,Kennedy-Rivera,Travel
+1009,2025-01-15,55.36,"Schneider, Collins and Thomas",Utilities
+1002,2025-04-15,358.52,Jones-Hawkins,Groceries
+1009,2025-05-15,473.29,Hernandez-Richards,Utilities
+1006,2025-02-20,447.61,Wilson and Sons,Healthcare
+1003,2025-06-10,175.72,"Roth, Baker and Moore",Shopping
+1008,2025-06-04,221.01,Wong Inc,Shopping
+1007,2024-12-11,351.55,Foster-Jones,Healthcare
+1008,2025-02-18,28.25,"Wood, Bush and Bradford",Utilities
+1010,2025-05-19,42.41,"Oneill, King and Campos",Healthcare
+1001,2025-06-04,107.62,Lane-Humphrey,Travel
+1007,2024-12-26,267.34,Hansen PLC,Utilities
+1000,2025-04-25,172.86,Calderon-Schaefer,Utilities
+1006,2025-02-12,450.57,"Wilkins, Meadows and Higgins",Utilities
+1003,2025-02-01,148.85,"Hooper, Obrien and Martinez",Utilities
+1006,2025-03-24,453.18,Carr Inc,Travel
+1004,2025-02-06,10.53,Anderson LLC,Groceries
+1008,2025-03-28,383.67,Powers-Walton,Travel
+1006,2024-12-30,273.74,Marsh Ltd,Utilities
+1003,2025-06-07,210.23,Reid-Stanley,Healthcare
+1000,2025-04-11,442.42,Hill-Craig,Utilities
+1003,2025-05-17,336.76,Lewis Inc,Restaurants
+1002,2025-03-21,388.89,Stewart-Smith,Utilities
+1010,2025-03-28,394.54,Schmidt and Sons,Utilities
+1004,2025-05-15,302.85,"Jones, Dudley and Russell",Restaurants
+1000,2025-05-01,63.04,"Smith, Robles and Ramirez",Travel
+1005,2025-01-11,24.97,Rhodes-Castro,Utilities
+1007,2025-03-22,102.6,"Berg, Chambers and Marks",Restaurants
+1003,2025-02-10,142.72,Sawyer-Johnson,Healthcare
+1001,2025-05-26,359.81,"Ramos, Torres and Bradley",Restaurants
+1002,2025-05-18,218.44,"Hall, Gray and Carter",Utilities
+1010,2025-01-15,246.21,Welch Group,Restaurants
+1000,2025-05-19,321.68,Austin and Sons,Shopping
+1006,2025-04-03,67.51,"Reilly, Reyes and Williams",Utilities
+1004,2025-04-08,131.97,"Steele, Wiggins and Dean",Travel
+1000,2025-04-17,374.36,"Yates, Navarro and Sanchez",Groceries
+1008,2025-02-01,167.02,Wilson Group,Utilities
+1004,2024-12-28,314.41,Gonzalez-Ferguson,Restaurants
+1002,2025-03-22,432.42,Henry and Sons,Utilities
+1009,2025-03-19,289.9,Shepard-Garcia,Travel
+1003,2025-04-17,401.55,Hansen Inc,Travel
+1005,2025-03-09,207.54,Ruiz LLC,Travel
+1000,2025-01-24,40.21,"Heath, Burton and Macdonald",Travel
+1005,2025-05-31,364.68,"Hughes, Cline and Blackwell",Healthcare
+1004,2025-03-07,276.5,"Cook, Patton and Lloyd",Groceries
+1010,2025-05-19,288.4,Flynn Ltd,Healthcare
+1008,2025-04-22,74.57,"James, Doyle and Morris",Groceries
+1003,2025-04-15,373.01,Walter-Fields,Utilities
+1009,2024-12-25,280.92,Burke-Fitzpatrick,Healthcare
+1003,2025-01-19,10.09,Collins PLC,Healthcare
+1005,2025-06-01,35.87,"Lucero, Rush and Nguyen",Groceries
+1004,2024-12-13,121.1,Walker and Sons,Healthcare
+1005,2025-01-30,463.7,Oneal PLC,Restaurants
+1005,2025-03-25,342.88,"Salinas, Lara and Hunt",Utilities
+1005,2024-12-23,458.96,"Mccall, Turner and Ayers",Shopping
+1002,2025-04-24,105.33,"Simmons, Johnson and Pope",Shopping
+1004,2025-02-25,336.92,Smith LLC,Restaurants
+1001,2025-02-08,274.06,Jones-Jones,Travel
+1000,2025-01-19,375.52,Schmitt-Burns,Travel
+1005,2025-01-20,353.82,"Marshall, Adams and Moreno",Travel
+1001,2025-03-01,444.69,"Smith, Anderson and Medina",Healthcare
+1009,2025-04-11,250.83,Golden-Jones,Utilities
+1007,2024-12-25,29.06,Johnson and Sons,Healthcare
+1009,2025-03-22,53.67,"Huang, Simpson and Hardy",Travel
+1001,2024-12-30,293.56,"Browning, Weiss and King",Travel
+1006,2025-04-05,383.23,Ford LLC,Groceries
+1005,2025-02-06,483.53,Rich-Mcintosh,Restaurants
+1002,2025-01-05,367.1,Williams-Briggs,Restaurants
+1002,2025-04-23,195.54,Deleon Ltd,Groceries
+1003,2025-01-16,89.24,Leon Group,Travel
+1003,2025-05-07,171.1,Levy-Jones,Restaurants
+1004,2025-06-05,64.7,Skinner-Roberts,Groceries
+1010,2025-02-25,84.72,Knox-Kaufman,Travel
+1006,2025-01-14,190.09,"Ramos, Brown and Simmons",Restaurants
+1009,2025-02-15,406.48,Patterson Group,Shopping
+1001,2025-02-23,172.4,Santana-Clark,Restaurants
+1002,2024-12-10,130.34,Taylor-Sharp,Groceries
+1009,2025-05-13,199.13,Haas LLC,Shopping
+1005,2025-04-27,420.47,"Sullivan, Smith and Wilson",Groceries
+1010,2025-02-25,144.43,Diaz Inc,Restaurants
+1000,2024-12-12,172.87,Ryan Inc,Restaurants
+1005,2025-04-12,154.12,Hardy-Morrison,Shopping
+1002,2025-04-22,351.53,Jones Inc,Restaurants
+1002,2025-01-08,400.62,Johnson and Sons,Restaurants
+1009,2025-06-07,463.38,Gonzalez-Ayala,Groceries
+1005,2025-04-27,109.26,"Anderson, Wilson and Murray",Utilities
+1010,2025-02-28,299.18,"Fernandez, Chandler and Ochoa",Groceries
+1007,2025-01-19,367.66,Carr-Garcia,Shopping
+1002,2025-04-14,91.74,"Roberts, Beltran and Barnes",Utilities
+1006,2025-03-13,35.57,"Taylor, Brooks and Harper",Utilities
+1004,2024-12-23,302.26,Simmons Ltd,Utilities
+1005,2025-02-25,303.21,"Castaneda, Flores and Stephens",Restaurants
+1008,2025-04-07,227.87,Black PLC,Shopping
+1005,2024-12-27,371.81,"Branch, Mcdaniel and Kennedy",Healthcare
+1000,2025-06-07,45.04,Nichols and Sons,Healthcare
+1009,2024-12-29,271.37,Smith-Vaughn,Travel
+1003,2024-12-10,467.92,Williams Group,Shopping
+1009,2025-03-15,98.22,Martin and Sons,Utilities
+1000,2025-03-14,404.19,Greene PLC,Utilities
+1003,2025-03-11,485.01,Miller-Griffith,Utilities
+1005,2025-01-28,111.42,Torres Inc,Travel
+1009,2025-03-12,319.23,White PLC,Groceries
+1007,2025-02-26,87.92,Conley and Sons,Shopping
+1007,2024-12-12,208.29,"Fischer, Mercado and Collins",Restaurants
+1003,2025-01-09,86.23,"Beard, Smith and Lara",Healthcare
+1000,2025-03-23,446.16,Thomas Ltd,Shopping
+1010,2025-02-16,51.56,Hall PLC,Restaurants
+1003,2024-12-11,136.6,Clay-Hamilton,Restaurants
+1008,2025-01-17,115.02,West-Hayden,Healthcare
+1009,2025-01-02,45.59,"Harvey, Shelton and Chaney",Shopping
+1009,2025-01-09,182.71,Brown PLC,Utilities
+1008,2024-12-20,439.04,Lynch-Matthews,Utilities
+1000,2025-01-10,313.33,Blair Inc,Utilities
+1000,2025-01-24,344.16,Lawrence Group,Groceries
+1009,2025-01-25,412.88,Moore and Sons,Shopping
+1006,2025-04-21,303.28,"Ali, Grant and Davis",Groceries
+1003,2025-04-02,441.51,Bernard-Daniels,Healthcare
+1004,2025-01-03,394.63,Brown Group,Groceries
+1009,2025-05-13,139.58,"Thomas, Martin and Singh",Utilities
+1002,2025-01-10,19.96,"Vasquez, Hawkins and Anderson",Healthcare
+1006,2024-12-10,236.3,"Thomas, Miller and Shaw",Healthcare
+1003,2025-05-19,58.66,"Lewis, Blake and Perez",Shopping
+1008,2025-01-12,38.2,Travis Group,Healthcare
+1000,2025-01-04,414.39,Atkinson-Kelly,Shopping
+1008,2025-03-03,290.19,"Mcgrath, Kline and Patel",Restaurants
+1010,2025-05-01,364.03,"Olsen, Ramos and Chan",Healthcare
+1009,2025-05-01,293.25,Gallagher-Ruiz,Travel
+1007,2025-01-21,70.78,Bell and Sons,Restaurants
+1004,2025-03-31,494.55,Miller-Waters,Groceries
+1002,2025-03-03,85.5,King-Prince,Groceries
+1006,2025-06-08,8.2,Dean-Schmidt,Utilities
+1010,2025-05-31,276.09,Mejia-Walton,Restaurants
+1006,2025-04-01,173.92,Rich-Morales,Restaurants
+1007,2025-04-23,478.16,"Jones, Daniels and Warren",Utilities
+1006,2025-01-11,104.09,"Barr, Velasquez and Williams",Restaurants
+1005,2025-03-19,367.31,Olson-Aguilar,Healthcare
+1004,2025-02-19,249.62,Oliver Group,Groceries
+1001,2024-12-16,378.3,"Lucas, Davis and Navarro",Healthcare
+1009,2025-05-16,147.82,Williams-Campbell,Groceries
+1000,2025-03-02,485.44,Peterson Ltd,Shopping
+1003,2025-03-16,47.55,Buck-Scott,Utilities
+1007,2024-12-23,142.29,Anderson-Davis,Utilities
+1000,2024-12-27,412.16,"Taylor, Lucas and Salazar",Restaurants
+1005,2025-03-26,378.45,"Diaz, Jones and Harris",Restaurants
+1002,2025-03-07,96.12,Neal-Charles,Shopping
+1006,2025-02-21,47.88,"Phillips, Juarez and Campbell",Groceries
+1007,2025-02-13,195.37,Nunez-Robbins,Healthcare
+1004,2025-05-13,75.51,Mendez and Sons,Healthcare
+1003,2025-03-22,199.23,"Lozano, Anderson and Martinez",Healthcare
+1003,2025-05-13,379.48,Wilson-Patrick,Groceries
+1000,2025-02-26,76.17,"Stewart, Cannon and Holden",Travel
+1004,2025-01-12,202.21,"Sandoval, Kline and Jenkins",Utilities
+1000,2025-02-15,29.46,"Martinez, Stevens and Griffin",Travel
+1002,2025-04-03,284.34,White PLC,Utilities
+1009,2024-12-20,26.13,"Rodriguez, Johnson and Pham",Travel
+1001,2025-04-09,127.8,"Allen, Hernandez and Martin",Restaurants
+1000,2025-05-17,478.93,Blackwell LLC,Restaurants
+1006,2025-06-04,321.36,Roman LLC,Groceries
+1009,2025-05-26,498.77,Fischer Inc,Restaurants
+1007,2025-01-23,292.69,"Martin, Smith and Gregory",Restaurants
+1008,2024-12-11,120.99,"Baker, Hill and Hernandez",Healthcare
+1001,2025-04-10,84.34,"Walton, Cook and Fisher",Utilities
+1009,2025-04-01,355.19,Johnson Group,Healthcare
+1008,2025-02-16,292.49,Hart-Whitney,Groceries
+1000,2024-12-12,347.98,"Gonzales, Graham and White",Utilities
+1009,2025-03-12,68.74,"Robinson, Crawford and Lucas",Healthcare
+1007,2025-02-16,494.26,Carter Inc,Groceries
+1009,2025-02-25,392.45,"Hanson, Stephens and Adkins",Restaurants
+1008,2025-02-26,388.19,Peters-Ochoa,Shopping
+1010,2025-03-14,213.47,Perkins LLC,Groceries
+1006,2025-05-10,306.68,Sullivan-Peters,Shopping
+1001,2025-05-26,390.17,Russell PLC,Restaurants
+1004,2025-02-09,198.79,"Lopez, Barajas and Jackson",Healthcare
+1001,2025-03-02,169.45,Rojas Inc,Healthcare
+1000,2025-03-05,447.55,Richardson-Lopez,Utilities
+1006,2025-06-03,233.4,Smith Inc,Groceries
+1003,2025-03-03,202.95,Jones-Klein,Utilities
+1006,2025-04-20,99.16,"Johnson, Velazquez and Cline",Utilities
+1008,2025-04-04,285.0,Doyle-Smith,Restaurants
+1009,2025-03-27,68.67,"Tucker, Wright and Lucas",Groceries
+1006,2025-01-15,373.44,"Ortiz, Morgan and Williams",Restaurants
+1010,2025-04-12,145.8,Guerrero-Harvey,Travel
+1003,2025-03-08,419.17,Evans PLC,Travel
+1005,2025-01-07,135.5,"Alexander, Lang and Thornton",Healthcare
+1001,2025-03-26,108.94,Palmer LLC,Groceries
+1005,2025-05-24,140.09,Stephens-Bond,Restaurants
+1009,2024-12-13,115.33,"French, Parsons and Richardson",Healthcare
+1006,2025-03-15,193.66,Brewer-Cole,Groceries
+1006,2024-12-26,120.07,Gonzalez-Gonzalez,Healthcare
+1005,2025-01-09,343.87,"Schultz, Carroll and Hancock",Utilities
+1003,2025-01-28,184.57,Reynolds Inc,Healthcare
+1008,2025-03-23,212.61,Hamilton-Miller,Healthcare
+1008,2025-05-31,94.96,Joseph-Johnson,Restaurants
+1006,2025-04-12,86.6,Lang-Carlson,Healthcare
+1007,2025-03-08,251.06,Jones-Webster,Healthcare
+1001,2025-02-25,256.24,"Weeks, Stewart and Lopez",Shopping
+1006,2025-05-02,336.69,"Smith, Anderson and Martinez",Healthcare
+1002,2025-06-02,259.75,"Jones, Taylor and Henderson",Shopping
+1007,2025-04-13,401.98,"Parker, Pacheco and Martinez",Shopping
+1003,2024-12-28,350.54,"Rogers, Quinn and Contreras",Travel
+1005,2025-03-08,430.55,"Gallagher, Patel and Campbell",Utilities
+1006,2025-04-12,12.97,Kelley-Gonzalez,Shopping
+1000,2024-12-17,23.11,Rodgers-Bell,Groceries
+1003,2025-05-10,172.5,"Beck, Reynolds and Martinez",Shopping
+1007,2025-02-11,477.73,"Trujillo, Harris and Johnson",Restaurants
+1004,2025-04-26,115.1,"Sheppard, Smith and Morgan",Groceries
+1008,2025-01-15,430.26,"Ross, Rogers and Shelton",Travel
+1005,2025-04-24,226.55,Young LLC,Utilities
+1006,2025-01-24,195.07,Campbell and Sons,Shopping
+1003,2025-01-12,156.87,"Anderson, Mason and Phillips",Utilities
+1003,2024-12-16,436.75,"Anderson, Price and Smith",Groceries
+1009,2025-02-10,277.27,Mcdonald-Le,Groceries
+1007,2025-01-11,187.86,Murphy-Craig,Shopping
+1006,2025-03-07,404.37,Williams Ltd,Healthcare
+1006,2025-03-27,141.97,Smith-Adams,Restaurants
+1010,2025-04-09,112.05,Walsh-Robinson,Restaurants
+1002,2025-03-14,34.4,Mcdonald Group,Restaurants
+1009,2025-01-20,461.92,"Day, Mullins and Robinson",Shopping
+1005,2025-01-06,16.58,Castro-Ramirez,Restaurants
+1008,2025-03-10,303.78,Rogers-Burton,Groceries
+1001,2024-12-20,313.61,Moore PLC,Restaurants
+1006,2025-06-07,111.69,"Hall, Welch and Morton",Travel
+1001,2025-05-03,182.93,"Bush, Jackson and Carlson",Healthcare
+1003,2025-04-08,313.13,"Harris, Campbell and Weaver",Travel
